@@ -1,0 +1,2 @@
+# minimo-fresh
+full minimo
